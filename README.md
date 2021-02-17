@@ -1,4 +1,11 @@
-### Hi there 👋
+## 💪 BOJ algorithm 💪
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wown252)](https://github.com/ellynhan/algorithm)
+
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wown252)](https://solved.ac/wown252)
 
 <!--
 **ellynhan/ellynhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
