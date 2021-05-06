@@ -3,6 +3,7 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wown252)](https://github.com/ellynhan/algorithm)
 
 5월 이내로 플레티넘 입성 목표!!
+DP+DFS를 너무 못한다 진짜...!
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wown252)](https://solved.ac/wown252)
