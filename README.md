@@ -8,7 +8,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wown252)](https://solved.ac/wown252)
 
 
-##Github Stats
+## Github Stats
 
 [![Ellynhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellynhan)](https://github.com/anuraghazra/github-readme-stats)
 
