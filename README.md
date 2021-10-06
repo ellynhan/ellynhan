@@ -4,7 +4,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wown252)](https://github.com/ellynhan/algorithm)
 
-9월까지 골드 1이 목표
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wown252)](https://solved.ac/wown252)
