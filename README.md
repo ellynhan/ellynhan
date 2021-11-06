@@ -8,7 +8,7 @@
 - 🐝  <a href="https://www.youtube.com/watch?v=4KKK8dAvrBM"><b><i> Studio Machete</i></b></a> Winter Internship (2020.12 ~ 2021.02)
 - 🇨🇦  <a href="https://base.town/"><b><i>Base</i></b></a> Long-Term Abroad Internship in Vancouver (2019.07 ~ 2019.12)
 - 📫  How to reach me: 
-   - Linkedin :  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewon-han-a25088182/)](https://www.linkedin.com/in/minsu-kim-336289160/) 
+   - Linkedin :  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewon-han-a25088182/)](https://www.linkedin.com/in/jaewon-han-a25088182/) 
    - Instagram :  [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/minsu._.0102/)](https://www.instagram.com/one_re_one)
    - Tech Blog: [![Tech Blog Badge](http://img.shields.io/badge/-%20blog-000000?style=flat-square&logo=bookstack&logoColor=white&link=https://alstn2468.github.io/)](https://waytocse.tistory.com/)
 
