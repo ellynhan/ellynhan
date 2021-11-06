@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jaewon&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=200&section=header&text=Jaewon&fontSize=50&animation=twinkling)
 
 ## Hello, I'm Jaewon Han!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
