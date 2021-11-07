@@ -4,9 +4,13 @@
 ## Hello, I'm Jaewon Han!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🌱  <a href="https://gdsc.community.dev/"><b><i> GDSC</i></b></a> PNU Core Member (2021.08 ~ )
-- 🦋  <a href="https://www.samsung-dsrecruit.com/index.php"><b><i> Samsung Electronics</i></b></a> Internship (2021.07 ~ 2021.08) 
+   -  Held a Webinar about <a href="https://waytocse.tistory.com/56">'What's Flutter'</a>, and <a href="https://devfest.withgoogle.com/events/devfest21">Devfest</a> Korea 2021 <a href="https://gdg.community.dev/events/details/google-gdg-campus-korea-presents-devfest-university-with-gdsc-busandae/">DevQuiz</a> session.
+- 🦋  <a href="https://www.samsung-dsrecruit.com/index.php"><b><i> Samsung Electronics</i></b></a> Internship (2021.07 ~ 2021.08)
+   -  As an SW QA part Intern, learned about Process Overview ( Test Tools, Image Fusing, Aging Test.. )  
 - 🐝  <a href="https://www.youtube.com/watch?v=4KKK8dAvrBM"><b><i> Studio Machete</i></b></a> Winter Internship (2020.12 ~ 2021.02)
+   -  Made an <a href="https://play.google.com/store/apps/details?id=kr.kofac.recorderonclass&hl=ko&gl=US">Android App</a> with Flutter/Dart
 - 🇨🇦  <a href="https://base.town/"><b><i>Base</i></b></a> Long-Term Abroad Internship in Vancouver (2019.07 ~ 2019.12)
+   -  Made Web with Typescript/React & Bootstrap/JS and Android App with Kotlin
 - 📫  How to reach me: 
    - Linkedin :  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewon-han-a25088182/)](https://www.linkedin.com/in/jaewon-han-a25088182/) 
    - Instagram :  [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/minsu._.0102/)](https://www.instagram.com/one_re_one)
@@ -14,7 +18,7 @@
 
 ## 🐤 BOJ rank
 <p align = "center">
-  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wown252"/>
+  <img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wown252"/>
 </p>
 
 ## 🛠 Tech Stack
