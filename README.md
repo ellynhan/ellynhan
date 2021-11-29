@@ -8,7 +8,7 @@
 - 🦋  <a href="https://www.samsung-dsrecruit.com/index.php"><b><i> Samsung Electronics</i></b></a> Internship (2021.07 ~ 2021.08)
    -  As an <b>SW QA</b> part Intern, learned about <b>QA Process Overview</b> <i>( Test Tools, Image Fusing, Aging Test.. )</i>  </br></br>
 - 🐝  <a href="https://www.youtube.com/watch?v=4KKK8dAvrBM"><b><i> Studio Machete</i></b></a> Winter Internship (2020.12 ~ 2021.02)
-   -  Made an <a href="https://play.google.com/store/apps/details?id=kr.kofac.recorderonclass&hl=ko&gl=US"><b>Android App</b></a> with Flutter/Dart</br></br>
+   -  Made an <a href="https://play.google.com/store/apps/details?id=kr.kofac.recorderonclass&hl=ko&gl=US"><b>Android/iOS App</b></a> with Flutter/Dart</br></br>
 - 🇨🇦  <a href="https://base.town/"><b><i>Base</i></b></a> Long-Term Abroad Internship in Vancouver (2019.07 ~ 2019.12)
    -  Made <b>Web</b> with Typescript/React & Bootstrap/JS and <b>Android App</b> with Kotlin</br></br>
 - 📫  How to reach me: 
