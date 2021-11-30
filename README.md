@@ -12,8 +12,6 @@
 - 🇨🇦  <a href="https://base.town/"><b><i>Base</i></b></a> Long-Term Abroad Internship in Vancouver (2019.07 ~ 2019.12)
    -  Made <b>Web</b> with Typescript/React & Bootstrap/JS and <b>Android App</b> with Kotlin</br></br>
 - 📫  How to reach me: 
-   - Linkedin :  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewon-han-a25088182/)](https://www.linkedin.com/in/jaewon-han-a25088182/) 
-   - Instagram :  [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/one_re_one/)](https://www.instagram.com/one_re_one/)
    - Tech Blog: [![Tech Blog Badge](http://img.shields.io/badge/-%20blog-000000?style=flat-square&logo=bookstack&logoColor=white&link=https://alstn2468.github.io/)](https://waytocse.tistory.com/)
 
 ## 🛠 Tech Stack
