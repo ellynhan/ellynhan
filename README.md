@@ -2,8 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=200&section=header&text=Jaewon&fontSize=50&animation=twinkling)
 
 ## Hello, I'm Jaewon Han!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
-- 👩🏻‍💻  <a href="#"><b><i> SAMSUNG Electronics </i></b></a> SW Engineer (2022.02 ~ )
-   - Freshman!</br></br>
+- 👩🏻‍💻  <a href="#"><b><i> SAMSUNG Electronics </i></b></a> SW Engineer (2022.02 ~ )<br/><br/>
 - 🌱  <a href="https://gdsc.community.dev/"><b><i> GDSC</i></b></a> PNU Core Member (2021.08 ~ )
    -  Held a Webinar about <a href="https://waytocse.tistory.com/56">'What's Flutter'</a>, and <a href="https://devfest.withgoogle.com/events/devfest21">Devfest</a> Korea 2021 <a href="https://gdg.community.dev/events/details/google-gdg-campus-korea-presents-devfest-university-with-gdsc-busandae/">DevQuiz</a> session.</br></br>
 - 🦋  <a href="#"><b><i> SAMSUNG Electronics</i></b></a> Internship (2021.07 ~ 2021.08)
