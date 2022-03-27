@@ -3,14 +3,6 @@
 
 ## Hello, I'm Jaewon Han!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 - 👩🏻‍💻  <a href="#"><b><i> SAMSUNG Electronics </i></b></a> SW Engineer (2022.02 ~ )<br/><br/>
-- 🌱  <a href="https://gdsc.community.dev/"><b><i> GDSC</i></b></a> PNU Core Member (2021.08 ~ )
-   -  Held a Webinar about <a href="https://waytocse.tistory.com/56">'What's Flutter'</a>, and <a href="https://devfest.withgoogle.com/events/devfest21">Devfest</a> Korea 2021 <a href="https://gdg.community.dev/events/details/google-gdg-campus-korea-presents-devfest-university-with-gdsc-busandae/">DevQuiz</a> session.</br></br>
-- 🦋  <a href="#"><b><i> SAMSUNG Electronics</i></b></a> Internship (2021.07 ~ 2021.08)
-   -  As an <b>SW QA</b> part Intern, learned about <b>QA Process Overview</b> <i>( Test Tools, Image Fusing, Aging Test.. )</i>  </br></br>
-- 🐝  <a href="#"><b><i> Studio Machete</i></b></a> Winter Internship (2020.12 ~ 2021.02)
-   -  Made an <a href="https://play.google.com/store/apps/details?id=kr.kofac.recorderonclass&hl=ko&gl=US"><b>Android/iOS App</b></a> with Flutter/Dart</br></br>
-- 🇨🇦  <a href="https://base.town/"><b><i>Base</i></b></a> Long-Term Abroad Internship in Vancouver (2019.07 ~ 2019.12)
-   -  Made <b>Web</b> with Typescript/React & Bootstrap/JS and <b>Android App</b> with Kotlin</br></br>
 - 📫  How to reach me: 
    - Tech Blog: [![Tech Blog Badge](http://img.shields.io/badge/-%20blog-000000?style=flat-square&logo=bookstack&logoColor=white&link=https://alstn2468.github.io/)](https://waytocse.tistory.com/)
 
